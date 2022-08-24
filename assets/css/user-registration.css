@@ -1,0 +1,110 @@
+body{
+	background-image: url(https://wallpaperaccess.com/full/521111.jpg);
+	background-size: cover;
+}
+.sign-up-container {
+	border: 1px solid;
+	border-color: #9a9a9a;
+	background: #fff;
+	border-radius: 20px;
+	padding-left: 10px;
+	width: 350px;
+	margin-left:1000px;
+	margin-top:90px ;
+	background-image:url(https://static.vecteezy.com/system/resources/previews/004/607/575/non_2x/geometric-seamless-pattern-white-background-minimalist-concept-free-vector.jpg);
+}
+
+.page-header {
+	float: right;
+}
+
+.login-signup {
+	margin: 10px;
+	text-decoration: none;
+	float: right;
+	
+
+}
+
+.login-signup a {
+	text-decoration: none;
+	font-weight: 700;
+	color: rgb(82, 82, 163);
+	font-size: 1.5rem;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.signup-heading {
+	font-size: 2em;
+	font-weight: bold;
+	padding-top: 60px;
+	text-align: center;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.row {
+	margin: 15px 0px;
+	text-align: center;
+}
+
+.form-label {
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+input.input-box-330 {
+	width: 250px;
+}
+
+.sign-up-container .error {
+	color: #ee0000;
+	padding: 0px;
+	background: none;
+	border: #ee0000;
+}
+
+.sign-up-container .error-field {
+	border: 1px solid #d96557;
+}
+
+.sign-up-container .error:before {
+	content: '*';
+	padding: 0 3px;
+	color: #D8000C;
+}
+
+.error-msg {
+	padding-top: 10px;
+	color: #D8000C;
+	text-align: center;
+}
+
+.success-msg {
+    padding-top: 10px;
+	color: #176701;
+	text-align: center;
+}
+
+input.btn {
+	width: 250px
+}
+
+.signup-align {
+	margin: 0 auto;
+}
+
+.page-content {
+	font-weight: bold;
+	padding-top: 60px;
+	text-align: center;
+}
+.btn{
+	background-color: blue;
+	color: aliceblue;
+	border-radius: 10px;
+	border: 1px;
+	height: 30px;
+}
